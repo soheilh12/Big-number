@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1653646102 source:d:\_term4\ap\bignumproj\main.cpp
+	<iostream>
+	<string>
+	"BigNum.cpp"
+
+1652439345 d:\_term4\ap\bignumproj\bignum.h
+
+1653596737 source:d:\_term4\ap\bignumproj\bignum.cpp
+	<iostream>
+	<string>
+	"BigNum.h"
+
+1653596737 d:\_term4\ap\bignumproj\bignum.cpp
+	<iostream>
+	<string>
+	"BigNum.h"
+
